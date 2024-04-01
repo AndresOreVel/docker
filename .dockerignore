@@ -1,0 +1,6 @@
+#Este archivo sirve para ignorar ciertas carpetas
+node_modules
+
+#Este archivo aparece cuando cometemos algún error
+#o cuando tratamos ver qué ha pasado dentro del servidor
+npm-debug.log
